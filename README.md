@@ -5,6 +5,7 @@
     - [Tags](#tags)
     - [Attributes](#attributes)
   - [CSS](#css)
+    - [Properties](#properties)
   - [JavaScript](#javascript)
 
 ## HTML
@@ -103,5 +104,7 @@ Pre Tag (Preformatted Tag)
 ### Attributes
 
 ## CSS
+
+### Properties
 
 ## JavaScript
